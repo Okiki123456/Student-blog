@@ -1,2 +1,0 @@
-# Student-blog
-The Student Sidekick is your go-to blog for school life tips, revision hacks, and creative study tools. From exam prep to science explainers, we make learning easier, clearer, and more fun
